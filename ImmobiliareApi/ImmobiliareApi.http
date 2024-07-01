@@ -1,0 +1,6 @@
+@ImmobiliareApi_HostAddress = http://localhost:5051
+
+GET {{ImmobiliareApi_HostAddress}}/ImmobiliareApi/
+Accept: application/json
+
+###
